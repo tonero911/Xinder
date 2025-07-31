@@ -674,13 +674,11 @@ nav ul button {
     width: auto;
     margin-top: auto;
     margin-right: 0;
-    overflow: hidden;
   }
   .first-img img {
-    width: auto;
+    width: 100%;
     height: 100%;
     margin-top: auto;
-    overflow: hidden;
   }
   .partners {
     display: grid;
