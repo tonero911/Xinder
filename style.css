@@ -674,6 +674,7 @@ nav ul button {
     width: auto;
     margin-top: auto;
     margin-right: 0;
+    overflow: hidden;
   }
   .first-img img {
     width: auto;
